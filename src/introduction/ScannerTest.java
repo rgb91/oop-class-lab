@@ -1,3 +1,5 @@
+package introduction;
+
 import java.util.Scanner;
 /**
  * Created by swakkhar on 5/6/16.

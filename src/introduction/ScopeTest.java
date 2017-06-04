@@ -1,8 +1,10 @@
+package introduction;
+
 public class ScopeTest {
 	public static void main(String args[]) {
 		int x = 10;
 		{
-			int x = 0;
+			x = 0; // NOT int x = 0;
 		}
 	}
 }
